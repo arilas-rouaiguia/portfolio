@@ -1,0 +1,37 @@
+body {
+color:black;
+font-size: 12px;
+background-image:url(130061.png);
+background-attachment:fixed;
+margin : 0;
+	padding: 0;
+font-family: "Mermaid1001",Mermaid1001;
+	font-size: 150%;
+}
+
+@font-face {
+    font-family: 'Mermaid1001';
+    src: url('Mermaid1001.ttf');
+}
+
+header {
+    background: no-repeat left/cover url(blog-header-background.jpg);
+    display: flex;
+    height: 220px;
+    min-width: 220px;
+    align-items: center;
+    color: #fff;
+    text-shadow: #000 0 0 .2em;
+	font-family: "/"
+	}
+	
+p{	font-size: 15px;
+text-align: center;
+}
+
+.Liens{text-align: center;
+}
+
+.logo{
+margin-left: 494px;
+}
